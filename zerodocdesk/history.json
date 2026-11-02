@@ -18,5 +18,26 @@
         ]
       }
     }
+  },
+  {
+    "app": "zerodocdesk",
+    "channel": "dev",
+    "serial": 1,
+    "version": "0.1.2",
+    "pub_date": "2026-11-02T10:11:10Z",
+    "notes": [
+      "설정창: 사이드바 왼쪽 아래에서 스킬·리모트·업데이트",
+      "대화/커맨드 두 모드만 남기고 입력창 토글 제거"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/zerodocdesk-v0.1.2/zerodocDesk_0.1.2_x64-setup.exe",
+        "sha256": "257f8636757b52d0b2cd4fff8777e9449b33887ded567cab25506965e9e38ce2",
+        "size": 6306661,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
