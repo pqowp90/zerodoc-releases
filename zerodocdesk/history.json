@@ -59,5 +59,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "zerodocdesk",
+    "channel": "dev",
+    "serial": 3,
+    "version": "0.1.4",
+    "pub_date": "2026-11-02T11:08:33Z",
+    "notes": [
+      "대화를 열기만 해도 목록 시각이 갱신되던 문제 수정"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/zerodocdesk-v0.1.4/zerodocDesk_0.1.4_x64-setup.exe",
+        "sha256": "f73f765fd87946351e8019fd9969353803b5168b29ca96307087dd4571523414",
+        "size": 6311509,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
