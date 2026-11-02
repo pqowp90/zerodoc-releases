@@ -1,0 +1,5 @@
+{
+  "key_id": "03420422426d51c2",
+  "sig": "b5SFe46wWfuB/A6gyrn/ynlLal9SZcCMGS1g15e/BibOH7QZ252Gq3aqZ0tn0jK3dNnmjQHHhpOgQk+4QvGUBw==",
+  "payload": "{\"app\":\"zerodocdesk\",\"channel\":\"stable\",\"serial\":1,\"version\":\"0.1.1\",\"pub_date\":\"2026-11-02T09:49:40Z\",\"notes\":[\"첫 릴리스: 대화 화면, 입력창, 스킬 패널, 자동 업데이트, 개발/릴리스 채널\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/zerodocdesk-v0.1.1/zerodocDesk_0.1.1_x64-setup.exe\",\"sha256\":\"95a0a5f97618a71b7f74952725e7db4956faa1d8ed01f669da33c804758b85c6\",\"size\":6307546,\"args\":[\"/S\"]}}}"
+}
