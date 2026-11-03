@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "19MjKd4gLEIuie4oLMgRBFBDVQi7j2y+6/PQsjY8v5lifOj0oO9dkdlipKyeKn6F7N7Q2NTkS4ivNBEVrkDACQ==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":1,\"version\":\"0.1.9\",\"pub_date\":\"2026-11-03T03:40:41Z\",\"notes\":[\"사이드바 프로젝트를 끌어서 순서를 바꿀 수 있어요 (모든 기기에서 같은 순서)\",\"긴 대화도 대화 화면에서 처음부터 다 보여요\",\"계정 메뉴에 요금제 등급(Max 5x 등) 표시, 상태 표시줄 정리\",\"zerodoc 스킬 저장소를 알아서 새로 받아 새 스킬이 바로 보여요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.9/DeskDoc_0.1.9_x64-setup.exe\",\"sha256\":\"e20164d73afe0386bb89fa73cc4d5f057f84e259d46b5ddacdcc621296dbb575\",\"size\":6728366,\"args\":[\"/S\"]}}}"
+  "sig": "pRnCbEMLoS/88rwc+quMWnpTHguGveYUfyIWpV+ba5DnE35ap1avgErb8KtImXkbn6KedPtfShXACjRH7Rx7Cg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":2,\"version\":\"0.1.11\",\"pub_date\":\"2026-11-03T08:51:02Z\",\"notes\":[\"번호 없는 Claude 대화상자(예: Teach auto mode)도 대화창에 카드로 표시\",\"메뉴가 떠 있을 때 보낸 메시지는 답한 뒤 전송\",\"스크롤해도 읽고 있는 대답의 질문이 맨 위에 고정\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.11/DeskDoc_0.1.11_x64-setup.exe\",\"sha256\":\"8afad04e96b0cf79e181aded884fdec36cbd34bbe680173039a3b85939bb2a5b\",\"size\":6744369,\"args\":[\"/S\"]}}}"
 }
