@@ -44,5 +44,28 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 3,
+    "version": "0.1.9",
+    "pub_date": "2026-11-03T03:38:09Z",
+    "notes": [
+      "사이드바 프로젝트를 끌어서 순서를 바꿀 수 있어요 (모든 기기에서 같은 순서)",
+      "긴 대화도 대화 화면에서 처음부터 다 보여요",
+      "계정 메뉴에 요금제 등급(Max 5x 등) 표시, 상태 표시줄 정리",
+      "zerodoc 스킬 저장소를 알아서 새로 받아 새 스킬이 바로 보여요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.9/DeskDoc.Dev_0.1.9_x64-setup.exe",
+        "sha256": "f471474f960b4257a37437f7295c4b5af15bb9568ad3e27dd56727fb1f974e9f",
+        "size": 6725547,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

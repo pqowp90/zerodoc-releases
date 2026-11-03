@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "YPGZWaQXSiEKxioirYRmlf4Tqlwqxar5F8Em61K27Cx7c3yQ6B7bczfDQ9VKW22RKmIUDvxSTp3FF0eUpx1rBA==",
-  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":2,\"version\":\"0.1.8\",\"pub_date\":\"2026-11-03T02:36:30Z\",\"notes\":[\"탭마다 Claude 계정을 바꾸고, 한도에 닿으면 다른 계정으로 자동으로 넘어가요\",\"새로고침해도 터미널 기록이 잘리지 않아요\",\"상태 표시를 Idle · 3m, 5h / 7d처럼 짧게\",\"Ctrl+Enter로 끝나면 전송\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.8/DeskDoc.Dev_0.1.8_x64-setup.exe\",\"sha256\":\"70989699b76b79cd35527814d2a4038d8d8a15f1f939749b7b0a39316e4e71ef\",\"size\":6708075,\"args\":[\"/S\"]}}}"
+  "sig": "8bEd68txcNZ78Kt7PSQISHes+8al5VH3LKdDmQCynTvJP0RTzluqbuTO2n4/5quRPk/Ymqxim4PlRn/LeRn+Cw==",
+  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":3,\"version\":\"0.1.9\",\"pub_date\":\"2026-11-03T03:38:09Z\",\"notes\":[\"사이드바 프로젝트를 끌어서 순서를 바꿀 수 있어요 (모든 기기에서 같은 순서)\",\"긴 대화도 대화 화면에서 처음부터 다 보여요\",\"계정 메뉴에 요금제 등급(Max 5x 등) 표시, 상태 표시줄 정리\",\"zerodoc 스킬 저장소를 알아서 새로 받아 새 스킬이 바로 보여요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.9/DeskDoc.Dev_0.1.9_x64-setup.exe\",\"sha256\":\"f471474f960b4257a37437f7295c4b5af15bb9568ad3e27dd56727fb1f974e9f\",\"size\":6725547,\"args\":[\"/S\"]}}}"
 }
