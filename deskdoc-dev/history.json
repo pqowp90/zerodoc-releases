@@ -21,5 +21,28 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 2,
+    "version": "0.1.8",
+    "pub_date": "2026-11-03T02:36:30Z",
+    "notes": [
+      "탭마다 Claude 계정을 바꾸고, 한도에 닿으면 다른 계정으로 자동으로 넘어가요",
+      "새로고침해도 터미널 기록이 잘리지 않아요",
+      "상태 표시를 Idle · 3m, 5h / 7d처럼 짧게",
+      "Ctrl+Enter로 끝나면 전송"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.8/DeskDoc.Dev_0.1.8_x64-setup.exe",
+        "sha256": "70989699b76b79cd35527814d2a4038d8d8a15f1f939749b7b0a39316e4e71ef",
+        "size": 6708075,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
