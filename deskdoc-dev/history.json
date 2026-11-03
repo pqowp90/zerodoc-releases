@@ -180,5 +180,30 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 9,
+    "version": "0.1.15",
+    "pub_date": "2026-11-03T14:55:54Z",
+    "notes": [
+      "Claude Code 메뉴(권한 확인, 계획 승인, /model 등)를 한국어로 보여 줘요",
+      "업데이트로 재시작하면 작업 중이던 대화가 이어서 작업해요",
+      "붙여넣기만 한 메시지도 대화 화면에 보이고, 긴 메시지는 접혀요",
+      "CLI의 중간 메모가 대화 화면에도 남아요",
+      "컨텍스트 메뉴를 바와 퍼센트로, 모델·권한 모드 버튼에 아이콘",
+      "새 앱 아이콘(책상 스탠드)"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.15/DeskDoc.Dev_0.1.15_x64-setup.exe",
+        "sha256": "f074d410d10c5c3eb54685922a3f3fe0440bb7785ea409874e5e2263168b19ee",
+        "size": 6948010,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
