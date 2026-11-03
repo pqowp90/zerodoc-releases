@@ -89,5 +89,27 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 5,
+    "version": "0.1.11",
+    "pub_date": "2026-11-03T08:48:32Z",
+    "notes": [
+      "번호 없는 Claude 대화상자(예: Teach auto mode)도 대화창에 카드로 표시",
+      "메뉴가 떠 있을 때 보낸 메시지는 답한 뒤 전송",
+      "스크롤해도 읽고 있는 대답의 질문이 맨 위에 고정"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.11/DeskDoc.Dev_0.1.11_x64-setup.exe",
+        "sha256": "bbd6ef84727cce2444251839d07a37b9fdda056cba7658d74f453e997a7f3d87",
+        "size": 6744616,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "tAG4dwF9ptGBuumhILm+I6fVUqIRTgdrJPq/4Ien31CxQqm9f+FNeOG7zRY5AFwHfzQmWmByrynZyKTZKnKZBQ==",
-  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":4,\"version\":\"0.1.10\",\"pub_date\":\"2026-11-03T06:17:45Z\",\"notes\":[\"업데이트: 작업 없을 때 바로 설치, 다시 켜지는 설치는 진행 창 표시, 남은 초 카운트다운\",\"새 Claude 탭이 뜨기 전에 보낸 메시지가 엔터 없이 멈추던 문제 수정 (준비되면 전송)\",\"폰 웹 화면을 홈 화면 앱(PWA)으로 설치\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.10/DeskDoc.Dev_0.1.10_x64-setup.exe\",\"sha256\":\"af4c754e1c160d5fbd36ca2c877bb5fcbd3fbb826da7f753005be349a5089ae6\",\"size\":6736956,\"args\":[\"/S\"]}}}"
+  "sig": "clr/XOra7WHD9w97HHybmdvLoIYAVzwWI1lgs67Cgi6zNKihae4RP1r5g4kKoXVV29VE59RXDT/8CABFdUt5AQ==",
+  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":5,\"version\":\"0.1.11\",\"pub_date\":\"2026-11-03T08:48:32Z\",\"notes\":[\"번호 없는 Claude 대화상자(예: Teach auto mode)도 대화창에 카드로 표시\",\"메뉴가 떠 있을 때 보낸 메시지는 답한 뒤 전송\",\"스크롤해도 읽고 있는 대답의 질문이 맨 위에 고정\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.11/DeskDoc.Dev_0.1.11_x64-setup.exe\",\"sha256\":\"bbd6ef84727cce2444251839d07a37b9fdda056cba7658d74f453e997a7f3d87\",\"size\":6744616,\"args\":[\"/S\"]}}}"
 }
