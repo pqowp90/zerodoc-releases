@@ -63,5 +63,30 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 4,
+    "version": "0.1.13",
+    "pub_date": "2026-11-03T10:40:50Z",
+    "notes": [
+      "입력창에서 /명령·@파일 자동완성",
+      "Claude Code가 띄운 다음 메시지 제안을 입력창에 표시 (Tab으로 채우기)",
+      "작업 중인 서브 에이전트를 입력창 위에 표시",
+      "명령이 도는 동안 중간 메모가 사라지지 않게",
+      "업데이트 방식 선택: 바로 다시 시작하고 열린 탭 이어 열기",
+      "스킬 찾기에서 만든 사람으로도 검색"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.13/DeskDoc_0.1.13_x64-setup.exe",
+        "sha256": "3ec176edd996d555a3dc4202220fef3a1de8504054115d1ce5c8d5ed82a1796c",
+        "size": 6846869,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

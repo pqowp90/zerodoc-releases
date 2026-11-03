@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "i9K54hSsNHLLTVtNIXoGMOJyzMyau0Ue38VKYk7O12KBvEQA3EQ87ywsjg5GzJsl9GYGz0kSYuDSNyMyv4CkAw==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":3,\"version\":\"0.1.12\",\"pub_date\":\"2026-11-03T09:18:49Z\",\"notes\":[\"대화 내용을 드래그해 인용하기 (인용 버튼 · Ctrl+L)\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.12/DeskDoc_0.1.12_x64-setup.exe\",\"sha256\":\"b37772784929d20496fd65444d64c4aa6ecde2ac9f89e0b008883a2b3552605c\",\"size\":6743651,\"args\":[\"/S\"]}}}"
+  "sig": "GzFktIgj+bTEytDq20QRy0qNhXFpOYx6OFQIBVJPgk4Wu35QJOOugtqIWzd83r3Cf8XFbxXPUoG45hPF4AOMAA==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":4,\"version\":\"0.1.13\",\"pub_date\":\"2026-11-03T10:40:50Z\",\"notes\":[\"입력창에서 /명령·@파일 자동완성\",\"Claude Code가 띄운 다음 메시지 제안을 입력창에 표시 (Tab으로 채우기)\",\"작업 중인 서브 에이전트를 입력창 위에 표시\",\"명령이 도는 동안 중간 메모가 사라지지 않게\",\"업데이트 방식 선택: 바로 다시 시작하고 열린 탭 이어 열기\",\"스킬 찾기에서 만든 사람으로도 검색\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.13/DeskDoc_0.1.13_x64-setup.exe\",\"sha256\":\"3ec176edd996d555a3dc4202220fef3a1de8504054115d1ce5c8d5ed82a1796c\",\"size\":6846869,\"args\":[\"/S\"]}}}"
 }
