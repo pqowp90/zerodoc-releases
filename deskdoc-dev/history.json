@@ -111,5 +111,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 6,
+    "version": "0.1.12",
+    "pub_date": "2026-11-03T09:16:21Z",
+    "notes": [
+      "대화 내용을 드래그해 인용하기 (인용 버튼 · Ctrl+L)"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.12/DeskDoc.Dev_0.1.12_x64-setup.exe",
+        "sha256": "7b08ec6fa809b98fb627c91a8eb665fe7c780b909aa6f6d52b2af9e147367c51",
+        "size": 6742034,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
