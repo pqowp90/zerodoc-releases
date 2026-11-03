@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "pRnCbEMLoS/88rwc+quMWnpTHguGveYUfyIWpV+ba5DnE35ap1avgErb8KtImXkbn6KedPtfShXACjRH7Rx7Cg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":2,\"version\":\"0.1.11\",\"pub_date\":\"2026-11-03T08:51:02Z\",\"notes\":[\"번호 없는 Claude 대화상자(예: Teach auto mode)도 대화창에 카드로 표시\",\"메뉴가 떠 있을 때 보낸 메시지는 답한 뒤 전송\",\"스크롤해도 읽고 있는 대답의 질문이 맨 위에 고정\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.11/DeskDoc_0.1.11_x64-setup.exe\",\"sha256\":\"8afad04e96b0cf79e181aded884fdec36cbd34bbe680173039a3b85939bb2a5b\",\"size\":6744369,\"args\":[\"/S\"]}}}"
+  "sig": "i9K54hSsNHLLTVtNIXoGMOJyzMyau0Ue38VKYk7O12KBvEQA3EQ87ywsjg5GzJsl9GYGz0kSYuDSNyMyv4CkAw==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":3,\"version\":\"0.1.12\",\"pub_date\":\"2026-11-03T09:18:49Z\",\"notes\":[\"대화 내용을 드래그해 인용하기 (인용 버튼 · Ctrl+L)\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.12/DeskDoc_0.1.12_x64-setup.exe\",\"sha256\":\"b37772784929d20496fd65444d64c4aa6ecde2ac9f89e0b008883a2b3552605c\",\"size\":6743651,\"args\":[\"/S\"]}}}"
 }
