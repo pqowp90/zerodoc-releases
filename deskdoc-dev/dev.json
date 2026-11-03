@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "8sDzwNHjtSz9o2jNr7tRO2pCOCVsivNRUPiFeRjalIMI8SyDVrFN6OvwvIwyMRCge/UQIspzG/Db4v/nGqSBCQ==",
-  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":7,\"version\":\"0.1.13\",\"pub_date\":\"2026-11-03T10:38:16Z\",\"notes\":[\"입력창에서 /명령·@파일 자동완성\",\"Claude Code가 띄운 다음 메시지 제안을 입력창에 표시 (Tab으로 채우기)\",\"작업 중인 서브 에이전트를 입력창 위에 표시\",\"명령이 도는 동안 중간 메모가 사라지지 않게\",\"업데이트 방식 선택: 바로 다시 시작하고 열린 탭 이어 열기\",\"스킬 찾기에서 만든 사람으로도 검색\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.13/DeskDoc.Dev_0.1.13_x64-setup.exe\",\"sha256\":\"23cde0e2c27f3194fa200b8ee4195368be836b007548f60f0db04becb4e3c734\",\"size\":6849724,\"args\":[\"/S\"]}}}"
+  "sig": "jVe5TQZgLxxPulxUtkyYKqugd72X6WA7knndYrdMfrzD4MGQCvHy5M6UaE5qRoEa65EUL7h8Hw1dxuqaoHhuCg==",
+  "payload": "{\"app\":\"deskdoc-dev\",\"channel\":\"dev\",\"serial\":8,\"version\":\"0.1.14\",\"pub_date\":\"2026-11-03T13:05:34Z\",\"notes\":[\"입력창에서 권한 모드(Default·Accept edits·Plan·Auto) 고르기\",\"컨텍스트 표시를 누르면 지금 요약하기(/compact)\",\"대화 스크롤바에 내 질문·요약 지점 표시, 누르면 그 자리로 이동\",\"대화 요약 지점에 구분선, 요약문이 내 메시지로 보이던 문제 수정\",\"설치된 zerodoc 스킬을 새 버전으로 자동 업데이트\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.14/DeskDoc.Dev_0.1.14_x64-setup.exe\",\"sha256\":\"7e6ec4003f8dbf6f16b915d5885d58d68e7c4178b455e946adcd50a04d6be032\",\"size\":6882579,\"args\":[\"/S\"]}}}"
 }

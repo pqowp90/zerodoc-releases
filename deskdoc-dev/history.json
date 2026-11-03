@@ -156,5 +156,29 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc-dev",
+    "channel": "dev",
+    "serial": 8,
+    "version": "0.1.14",
+    "pub_date": "2026-11-03T13:05:34Z",
+    "notes": [
+      "입력창에서 권한 모드(Default·Accept edits·Plan·Auto) 고르기",
+      "컨텍스트 표시를 누르면 지금 요약하기(/compact)",
+      "대화 스크롤바에 내 질문·요약 지점 표시, 누르면 그 자리로 이동",
+      "대화 요약 지점에 구분선, 요약문이 내 메시지로 보이던 문제 수정",
+      "설치된 zerodoc 스킬을 새 버전으로 자동 업데이트"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-dev-v0.1.14/DeskDoc.Dev_0.1.14_x64-setup.exe",
+        "sha256": "7e6ec4003f8dbf6f16b915d5885d58d68e7c4178b455e946adcd50a04d6be032",
+        "size": 6882579,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
