@@ -88,5 +88,32 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 5,
+    "version": "0.1.15",
+    "pub_date": "2026-11-03T15:19:06Z",
+    "notes": [
+      "입력창에서 권한 모드(Default·Accept edits·Plan·Auto) 고르기",
+      "컨텍스트 창의 '지금 요약하기', 스크롤바에 질문·요약 지점 표시",
+      "Claude Code 메뉴 카드를 한국어로 보여 주기",
+      "업데이트로 다시 켜질 때 하던 작업이 끊긴 대화는 이어서 하기",
+      "붙여넣기만 한 메시지도 대화 화면에 보이고, 긴 메시지는 접어서 보이기",
+      "CLI에 보이는 중간 메모를 대화 화면에도 남기기",
+      "설치된 zerodoc 스킬을 새 버전으로 자동 업데이트",
+      "앱·웹 아이콘을 책상 스탠드로 바꾸기"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.15/DeskDoc_0.1.15_x64-setup.exe",
+        "sha256": "7a68f501b0f6eec32e847bd2d382f318c618bbba6cde064e64a55788058e3c67",
+        "size": 6954674,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

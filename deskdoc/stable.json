@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "GzFktIgj+bTEytDq20QRy0qNhXFpOYx6OFQIBVJPgk4Wu35QJOOugtqIWzd83r3Cf8XFbxXPUoG45hPF4AOMAA==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":4,\"version\":\"0.1.13\",\"pub_date\":\"2026-11-03T10:40:50Z\",\"notes\":[\"입력창에서 /명령·@파일 자동완성\",\"Claude Code가 띄운 다음 메시지 제안을 입력창에 표시 (Tab으로 채우기)\",\"작업 중인 서브 에이전트를 입력창 위에 표시\",\"명령이 도는 동안 중간 메모가 사라지지 않게\",\"업데이트 방식 선택: 바로 다시 시작하고 열린 탭 이어 열기\",\"스킬 찾기에서 만든 사람으로도 검색\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.13/DeskDoc_0.1.13_x64-setup.exe\",\"sha256\":\"3ec176edd996d555a3dc4202220fef3a1de8504054115d1ce5c8d5ed82a1796c\",\"size\":6846869,\"args\":[\"/S\"]}}}"
+  "sig": "CDIGHvP4zIUZ8huD+0E8EqJKz6TIPYEYwF67PYPE69sk3GN9VhGgfysuM20qGLbAHMudRCUjXtnxq5YdrA0PBA==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":5,\"version\":\"0.1.15\",\"pub_date\":\"2026-11-03T15:19:06Z\",\"notes\":[\"입력창에서 권한 모드(Default·Accept edits·Plan·Auto) 고르기\",\"컨텍스트 창의 '지금 요약하기', 스크롤바에 질문·요약 지점 표시\",\"Claude Code 메뉴 카드를 한국어로 보여 주기\",\"업데이트로 다시 켜질 때 하던 작업이 끊긴 대화는 이어서 하기\",\"붙여넣기만 한 메시지도 대화 화면에 보이고, 긴 메시지는 접어서 보이기\",\"CLI에 보이는 중간 메모를 대화 화면에도 남기기\",\"설치된 zerodoc 스킬을 새 버전으로 자동 업데이트\",\"앱·웹 아이콘을 책상 스탠드로 바꾸기\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.15/DeskDoc_0.1.15_x64-setup.exe\",\"sha256\":\"7a68f501b0f6eec32e847bd2d382f318c618bbba6cde064e64a55788058e3c67\",\"size\":6954674,\"args\":[\"/S\"]}}}"
 }
