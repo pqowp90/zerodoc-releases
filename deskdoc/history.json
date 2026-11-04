@@ -115,5 +115,29 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 6,
+    "version": "0.1.21",
+    "pub_date": "2026-11-04T03:21:14Z",
+    "notes": [
+      "폰 연결: 화면은 데스크탑 앱이 보내고, 바로 닿지 못하면 릴레이(TURN)로 연결",
+      "질문 카드·설문 카드, 대화 모드에서 Edit/Write가 바꾼 줄 표시, 실패한 호출 표시",
+      "웹 링크·코드 복사, 단축키·테마 색 설정, 백그라운드 명령 보호",
+      "사이드바: 작업 순서·백그라운드 표시, 흰색 로고·새 앱 아이콘",
+      "폰: 아래 키 막대 없앰, 사이드바를 두 번 눌러야 열리던 문제 고침"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.21/DeskDoc_0.1.21_x64-setup.exe",
+        "sha256": "4d056e9d5f7820e84f3a02848e1a03f8f60f1c530eb31fa3b461f0c9195a8d5d",
+        "size": 7153908,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
