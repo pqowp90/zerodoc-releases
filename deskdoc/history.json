@@ -230,5 +230,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 11,
+    "version": "0.1.27",
+    "pub_date": "2026-11-04T20:25:40Z",
+    "notes": [
+      "에이전트 계층 분리, Antigravity 탭, 폰 알림, 사용량 예측, 이미지 보안, 자동 전환 개선"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.27/DeskDoc_0.1.27_x64-setup.exe",
+        "sha256": "e48842b488c64fa8e610c7e3f57c39a9907edf029b1f91f994566220fc363669",
+        "size": 7535137,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

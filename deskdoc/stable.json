@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "feVGa9bnz3RE822OmSuzelKfBa0e+4zqGQNpHNWWzqFewqOgnp1ozWmhRFcJrwE19HQH3M5GMgb5QZgRrpGTBg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":10,\"version\":\"0.1.26\",\"pub_date\":\"2026-11-04T16:04:25Z\",\"notes\":[\"폰에서 하단 바·계정 메뉴·설정 탭이 잘리지 않고, 아이폰 홈 막대·노치를 비켜 서요\",\"폰에서 대화를 바꾸면 이미지가 늦게 떠도 맨 아래에서 시작해요\",\"다른 곳의 Claude가 계정 폴더를 쓰고 있어 못 지울 때 그렇다고 알려 줘요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.26/DeskDoc_0.1.26_x64-setup.exe\",\"sha256\":\"59dea644cf1d3097b5e132da994a0176cb8a381861d784abf8326b81b3606bc7\",\"size\":7284891,\"args\":[\"/S\"]}}}"
+  "sig": "y76B565a8ZYtenoONzwBwWbKXPtoNQ1urjZ11Rc/J+clA3D3KT/3Afyoc1Iw3INYdno9ZzwDOqLGYWZxt/mcBg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":11,\"version\":\"0.1.27\",\"pub_date\":\"2026-11-04T20:25:40Z\",\"notes\":[\"에이전트 계층 분리, Antigravity 탭, 폰 알림, 사용량 예측, 이미지 보안, 자동 전환 개선\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.27/DeskDoc_0.1.27_x64-setup.exe\",\"sha256\":\"e48842b488c64fa8e610c7e3f57c39a9907edf029b1f91f994566220fc363669\",\"size\":7535137,\"args\":[\"/S\"]}}}"
 }
