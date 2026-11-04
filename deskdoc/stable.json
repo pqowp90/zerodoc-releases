@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "+1400c++gBOdKh8Ffk9EYf65f7DOvEs0Pqr5RD3Au8EW5x0sdjF67vIjbXJRVB/OYWPcRB2TYEHT+0ZrxsBYBg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":6,\"version\":\"0.1.21\",\"pub_date\":\"2026-11-04T03:21:14Z\",\"notes\":[\"폰 연결: 화면은 데스크탑 앱이 보내고, 바로 닿지 못하면 릴레이(TURN)로 연결\",\"질문 카드·설문 카드, 대화 모드에서 Edit/Write가 바꾼 줄 표시, 실패한 호출 표시\",\"웹 링크·코드 복사, 단축키·테마 색 설정, 백그라운드 명령 보호\",\"사이드바: 작업 순서·백그라운드 표시, 흰색 로고·새 앱 아이콘\",\"폰: 아래 키 막대 없앰, 사이드바를 두 번 눌러야 열리던 문제 고침\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.21/DeskDoc_0.1.21_x64-setup.exe\",\"sha256\":\"4d056e9d5f7820e84f3a02848e1a03f8f60f1c530eb31fa3b461f0c9195a8d5d\",\"size\":7153908,\"args\":[\"/S\"]}}}"
+  "sig": "4/gWtgw9/psirCA32xFlg9JXOUwpQ5e3cPwiCHpSWYgAAOqUvwiskc9LwpWprbxdl4tBDZh5DKMAlmtqSqaiCQ==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":7,\"version\":\"0.1.22\",\"pub_date\":\"2026-11-04T10:30:58Z\",\"notes\":[\"Claude 답의 마크다운·코드 색칠을 앱이 한 번 읽어 데스크탑·폰 화면이 똑같이 보여요\",\"'!' 명령과 결과가 대화 화면에 보여요\",\"질문 카드 항목을 누르면 실제 화면 기준으로 정확히 골라져요\",\"사이드바에 서브 에이전트·셸을 따로 표시하고 질문 대기 점을 추가했어요\",\"계정 지우기, 같은 계정 중복 로그인 막기, 입력창 ↑↓로 이전 입력 불러오기, '맨 아래로' 버튼\",\"설치 파일에서 개발용 주석과 PC 경로를 뺐어요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.22/DeskDoc_0.1.22_x64-setup.exe\",\"sha256\":\"d31cfa8511d12c55fd2d24cd7bed2d0e71c46147e65a92e0c4869667b7ee0ab2\",\"size\":7197589,\"args\":[\"/S\"]}}}"
 }

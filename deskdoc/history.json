@@ -139,5 +139,30 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 7,
+    "version": "0.1.22",
+    "pub_date": "2026-11-04T10:30:58Z",
+    "notes": [
+      "Claude 답의 마크다운·코드 색칠을 앱이 한 번 읽어 데스크탑·폰 화면이 똑같이 보여요",
+      "'!' 명령과 결과가 대화 화면에 보여요",
+      "질문 카드 항목을 누르면 실제 화면 기준으로 정확히 골라져요",
+      "사이드바에 서브 에이전트·셸을 따로 표시하고 질문 대기 점을 추가했어요",
+      "계정 지우기, 같은 계정 중복 로그인 막기, 입력창 ↑↓로 이전 입력 불러오기, '맨 아래로' 버튼",
+      "설치 파일에서 개발용 주석과 PC 경로를 뺐어요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.22/DeskDoc_0.1.22_x64-setup.exe",
+        "sha256": "d31cfa8511d12c55fd2d24cd7bed2d0e71c46147e65a92e0c4869667b7ee0ab2",
+        "size": 7197589,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
