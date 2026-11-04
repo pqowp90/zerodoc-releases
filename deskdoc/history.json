@@ -164,5 +164,28 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 8,
+    "version": "0.1.24",
+    "pub_date": "2026-11-04T13:07:11Z",
+    "notes": [
+      "제로독 계정으로 로그인해요: 설정 › 제로독 계정 (초대 코드가 필요해요)",
+      "폰 릴레이는 회사 릴레이를 써요. 본인 TURN 키 입력은 없앴어요",
+      "백그라운드 셸·모니터 상태가 입력창 위에 한 줄로 보이고, 눌러서 출력을 볼 수 있어요",
+      "줄바꿈된 권한 질문의 답도 한 문장으로 번역해요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.24/DeskDoc_0.1.24_x64-setup.exe",
+        "sha256": "c5cac7be317b390a379bb34104f396714e64f64588e186bc293898aa60c7de53",
+        "size": 7285945,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
