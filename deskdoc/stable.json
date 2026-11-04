@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "/JyzoF7Al2vMiEqTwIfePpkyxtWCVb7WXi6alyfxqNQJUT/aleDu5ipFMTeXEfKWByCq7wGprbKZFxySg1NwBg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":9,\"version\":\"0.1.25\",\"pub_date\":\"2026-11-04T13:36:29Z\",\"notes\":[\"대화 전환 때 화면이 한 번에 그려지게\",\"폰에서 화면이 저절로 확대되지 않게\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.25/DeskDoc_0.1.25_x64-setup.exe\",\"sha256\":\"ec3a4e4aa887ff32b0177549b201e069a3aadda768ebdaf7823d72d9473ba38f\",\"size\":7287402,\"args\":[\"/S\"]}}}"
+  "sig": "feVGa9bnz3RE822OmSuzelKfBa0e+4zqGQNpHNWWzqFewqOgnp1ozWmhRFcJrwE19HQH3M5GMgb5QZgRrpGTBg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":10,\"version\":\"0.1.26\",\"pub_date\":\"2026-11-04T16:04:25Z\",\"notes\":[\"폰에서 하단 바·계정 메뉴·설정 탭이 잘리지 않고, 아이폰 홈 막대·노치를 비켜 서요\",\"폰에서 대화를 바꾸면 이미지가 늦게 떠도 맨 아래에서 시작해요\",\"다른 곳의 Claude가 계정 폴더를 쓰고 있어 못 지울 때 그렇다고 알려 줘요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.26/DeskDoc_0.1.26_x64-setup.exe\",\"sha256\":\"59dea644cf1d3097b5e132da994a0176cb8a381861d784abf8326b81b3606bc7\",\"size\":7284891,\"args\":[\"/S\"]}}}"
 }
