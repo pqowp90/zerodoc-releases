@@ -187,5 +187,26 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 9,
+    "version": "0.1.25",
+    "pub_date": "2026-11-04T13:36:29Z",
+    "notes": [
+      "대화 전환 때 화면이 한 번에 그려지게",
+      "폰에서 화면이 저절로 확대되지 않게"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.25/DeskDoc_0.1.25_x64-setup.exe",
+        "sha256": "ec3a4e4aa887ff32b0177549b201e069a3aadda768ebdaf7823d72d9473ba38f",
+        "size": 7287402,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

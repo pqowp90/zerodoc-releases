@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "4/vpTGRR4RNdbNcTznZBT0t1DUlGNiS/GYyQikfZMLMYIHYeh63vZVz4T4fiuLnSWLNWTjkP2PkelgiqtCgrAg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":8,\"version\":\"0.1.24\",\"pub_date\":\"2026-11-04T13:07:11Z\",\"notes\":[\"제로독 계정으로 로그인해요: 설정 › 제로독 계정 (초대 코드가 필요해요)\",\"폰 릴레이는 회사 릴레이를 써요. 본인 TURN 키 입력은 없앴어요\",\"백그라운드 셸·모니터 상태가 입력창 위에 한 줄로 보이고, 눌러서 출력을 볼 수 있어요\",\"줄바꿈된 권한 질문의 답도 한 문장으로 번역해요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.24/DeskDoc_0.1.24_x64-setup.exe\",\"sha256\":\"c5cac7be317b390a379bb34104f396714e64f64588e186bc293898aa60c7de53\",\"size\":7285945,\"args\":[\"/S\"]}}}"
+  "sig": "/JyzoF7Al2vMiEqTwIfePpkyxtWCVb7WXi6alyfxqNQJUT/aleDu5ipFMTeXEfKWByCq7wGprbKZFxySg1NwBg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":9,\"version\":\"0.1.25\",\"pub_date\":\"2026-11-04T13:36:29Z\",\"notes\":[\"대화 전환 때 화면이 한 번에 그려지게\",\"폰에서 화면이 저절로 확대되지 않게\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.25/DeskDoc_0.1.25_x64-setup.exe\",\"sha256\":\"ec3a4e4aa887ff32b0177549b201e069a3aadda768ebdaf7823d72d9473ba38f\",\"size\":7287402,\"args\":[\"/S\"]}}}"
 }
