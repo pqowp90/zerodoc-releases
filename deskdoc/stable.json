@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "y76B565a8ZYtenoONzwBwWbKXPtoNQ1urjZ11Rc/J+clA3D3KT/3Afyoc1Iw3INYdno9ZzwDOqLGYWZxt/mcBg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":11,\"version\":\"0.1.27\",\"pub_date\":\"2026-11-04T20:25:40Z\",\"notes\":[\"에이전트 계층 분리, Antigravity 탭, 폰 알림, 사용량 예측, 이미지 보안, 자동 전환 개선\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.27/DeskDoc_0.1.27_x64-setup.exe\",\"sha256\":\"e48842b488c64fa8e610c7e3f57c39a9907edf029b1f91f994566220fc363669\",\"size\":7535137,\"args\":[\"/S\"]}}}"
+  "sig": "kmvn12QZOqUD7ZyePW6L7V7ec8NlI8c22ZrsxqHLYUi+ji1YcAlUJ1MW6thYKBMFn9MDpVoUUS6Fp7xruhbUCQ==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":12,\"version\":\"0.1.45\",\"pub_date\":\"2026-11-07T06:53:20Z\",\"notes\":[\"Claude 말고 안티그래비티도 탭에서 쓸 수 있고, 계정을 여러 개 둘 수 있어요\",\"한도에 닿으면 다른 계정으로 옮기고, 안 되면 풀릴 때까지 기다렸다가 이어서 해요\",\"폰 알림(Web Push)이 오고, 와이파이와 데이터를 오가도 바로 다시 연결돼요\",\"대화 검색, 프로젝트 설정, 5시간 창 미리 열기가 생겼어요\",\"백그라운드 셸 출력 보기와 메시지 대기열이 생겼어요\",\"터미널이 더 빨라졌고(자체 VT 해석기), 폰 화면 잘림·확대 문제를 고쳤어요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.45/DeskDoc_0.1.45_x64-setup.exe\",\"sha256\":\"1e1b611202d707939f16d78cc41bcf3b70c9e965a0114b98459254bb84ec08e7\",\"size\":7964348,\"args\":[\"/S\"]}}}"
 }
