@@ -275,5 +275,28 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 13,
+    "version": "0.1.53",
+    "pub_date": "2026-11-09T02:29:32Z",
+    "notes": [
+      "브라우저 기본 확인창 대신 앱 안의 질문으로 물어봐 (웹 화면)",
+      "네이티브 창의 확인 상자가 누른 버튼 옆에 뜨도록 웹과 맞췄어",
+      "네이티브 창의 터미널 글꼴 목록을 웹과 같게 맞췄어",
+      "앱 아이콘을 한곳(assets/icons)에서 관리하도록 정리했어"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.53/DeskDoc_0.1.53_x64-setup.exe",
+        "sha256": "37bccc3f645e63905ec9a5a4f65d1a99837a3236776b14d3f40633b29d67f1f7",
+        "size": 8000879,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
