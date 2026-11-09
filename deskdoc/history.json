@@ -318,5 +318,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 15,
+    "version": "0.1.61",
+    "pub_date": "2026-11-09T16:58:07Z",
+    "notes": [
+      "질문 카드의 '직접 입력'을 누르면 질문이 끊기던 것을 고쳤어요: 카드가 남고 입력창에 쓴 답이 그대로 전달돼요. 프로젝트를 사이드바 폴더로 묶는 기능, 상단 바를 제목줄로 합치는 옵션 등"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.61/DeskDoc_0.1.61_x64-setup.exe",
+        "sha256": "dd4837aa03c7b498db10920c0ffa0980fd4deb5809c851d790e28754eefa3f7f",
+        "size": 8098935,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
