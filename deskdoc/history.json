@@ -298,5 +298,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 14,
+    "version": "0.1.55",
+    "pub_date": "2026-11-09T09:04:53Z",
+    "notes": [
+      "내 질문 기준으로 대화를 되감거나 포크할 수 있어요. 말풍선 아래에 복사 버튼이 생겼어요. 계획 승인 카드 위에 계획 내용이 보여요. 탭을 옮기면 입력창 모델 표시가 그 탭 값으로 바뀌어요."
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.55/DeskDoc_0.1.55_x64-setup.exe",
+        "sha256": "604680148df07ec93bff8d4dcbd82431f626ec36f9955cc5df09b9da04474c46",
+        "size": 8060702,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
