@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "bQO+L501Qa9gbbv8ubPZs97vuFqCvVnQBCjglmEcM72RSfDH0+d6fAfnu1Q/wxoGKX4awSRgP4JbVHhkLMt4DA==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":16,\"version\":\"0.1.62\",\"pub_date\":\"2026-11-09T17:07:19Z\",\"notes\":[\"프로젝트를 사이드바 폴더로 묶어 정리할 수 있어요(웹·네이티브 창 모두). 질문 카드의 '직접 입력'을 누르면 질문이 끊기던 것을 고쳤어요: 카드가 남고 입력창에 쓴 답이 그대로 전달돼요. 웹뷰 창에도 상단 바를 제목줄로 합치는 옵션을 넣었어요.\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.62/DeskDoc_0.1.62_x64-setup.exe\",\"sha256\":\"703ab870ca9c93da85c835342d61a2f27d8e96f34c361798ccaf169aa513ca19\",\"size\":8103420,\"args\":[\"/S\"]}}}"
+  "sig": "gg2hewklzJig3aJHtlCQxq6sZ0r484thaccjxy+b7PWIdT4ChEgCCalxrPWgAkXigTqeKH7pl5hozoaDJpcgAg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":17,\"version\":\"0.1.63\",\"pub_date\":\"2026-11-11T09:24:23Z\",\"notes\":[\"빈 대화 화면에 어느 폴더의 대화인지 표시\",\"사이드바: 대화 고정·순서 바꾸기, 폴더 묶기, 목록 깜빡임 수정\",\"사용량 툴팁을 사용량 카드로 변경\",\"되돌리기·요약 이어가기·붙여넣기 큐 표시 버그 수정\",\"입력창에 !를 치면 셸 명령 줄\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.63/DeskDoc_0.1.63_x64-setup.exe\",\"sha256\":\"183ff63edd7e085cc7332ba50572f2aedab9229ebfdcf33ccd7880b1f6758fac\",\"size\":8122638,\"args\":[\"/S\"]}}}"
 }

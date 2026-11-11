@@ -358,5 +358,29 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 17,
+    "version": "0.1.63",
+    "pub_date": "2026-11-11T09:24:23Z",
+    "notes": [
+      "빈 대화 화면에 어느 폴더의 대화인지 표시",
+      "사이드바: 대화 고정·순서 바꾸기, 폴더 묶기, 목록 깜빡임 수정",
+      "사용량 툴팁을 사용량 카드로 변경",
+      "되돌리기·요약 이어가기·붙여넣기 큐 표시 버그 수정",
+      "입력창에 !를 치면 셸 명령 줄"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.63/DeskDoc_0.1.63_x64-setup.exe",
+        "sha256": "183ff63edd7e085cc7332ba50572f2aedab9229ebfdcf33ccd7880b1f6758fac",
+        "size": 8122638,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
