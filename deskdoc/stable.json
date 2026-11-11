@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "gg2hewklzJig3aJHtlCQxq6sZ0r484thaccjxy+b7PWIdT4ChEgCCalxrPWgAkXigTqeKH7pl5hozoaDJpcgAg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":17,\"version\":\"0.1.63\",\"pub_date\":\"2026-11-11T09:24:23Z\",\"notes\":[\"빈 대화 화면에 어느 폴더의 대화인지 표시\",\"사이드바: 대화 고정·순서 바꾸기, 폴더 묶기, 목록 깜빡임 수정\",\"사용량 툴팁을 사용량 카드로 변경\",\"되돌리기·요약 이어가기·붙여넣기 큐 표시 버그 수정\",\"입력창에 !를 치면 셸 명령 줄\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.63/DeskDoc_0.1.63_x64-setup.exe\",\"sha256\":\"183ff63edd7e085cc7332ba50572f2aedab9229ebfdcf33ccd7880b1f6758fac\",\"size\":8122638,\"args\":[\"/S\"]}}}"
+  "sig": "CCytaH/ZpF4V8eJy6+JMHQIaTedZ7TjAeM4rU/Ak2DUd0FRoewrfSceigipV8MKnCuRqVgjZpvTDMIszISCEBA==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":18,\"version\":\"0.1.64\",\"pub_date\":\"2026-11-11T09:53:26Z\",\"notes\":[\"한도 대기 카드를 그 탭 위에서만 보이게 수정\",\"빈 대화 화면에 어느 폴더의 대화인지 표시\",\"사이드바: 대화 고정·순서 바꾸기, 폴더 묶기, 목록 깜빡임 수정\",\"사용량 툴팁을 사용량 카드로 변경\",\"되돌리기·요약 이어가기·붙여넣기 큐 표시 버그 수정\",\"입력창에 !를 치면 셸 명령 줄\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.64/DeskDoc_0.1.64_x64-setup.exe\",\"sha256\":\"90c2284529badff9246171440298c9b298b006641b436a4243822d8b7415cc8f\",\"size\":8116858,\"args\":[\"/S\"]}}}"
 }
