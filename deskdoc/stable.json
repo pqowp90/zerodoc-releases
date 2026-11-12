@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "IM1MO4uVcjX8xBuxMmPm+3wWRG524fX8O6UMFJhPJrXAZR5vTM7lRpbs/z0nWOOc4AG7I8x28NLJdqhB3nrfDQ==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":19,\"version\":\"0.1.65\",\"pub_date\":\"2026-11-12T01:04:59Z\",\"notes\":[\"앱이 오류로 멈추면 다음에 켤 때 알려 주고, 오류 보고서를 확인해 보낼 수 있는 창이 생겼어\",\"웹뷰 화면 프로세스가 죽으면 화면을 다시 불러오거나 창을 다시 만들어\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.65/DeskDoc_0.1.65_x64-setup.exe\",\"sha256\":\"832c25bd7aac3dc702355c130820338a9c4cf84fa8a11b153028f5767952cff9\",\"size\":8221793,\"args\":[\"/S\"]}}}"
+  "sig": "ATLKpSUqA+R04n/skHFHcDIIix8IojzNFkabTy6N+EqoKAbC2+5q3V6kNMuxnLsXxiz1sOnAavHxTmGD1tSODg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":20,\"version\":\"0.1.66\",\"pub_date\":\"2026-11-12T09:32:00Z\",\"notes\":[\"리모트 연결 방식을 바꿨어요: Nostr 대신 계정센터 만남 서버로 연결을 맺어요\",\"PC를 업데이트한 뒤에는 폰에서 QR로 PC를 다시 짝 맺어야 해요\",\"리모트가 끊기면 PC가 알아서 다시 접속하고, 연결된 폰을 12시간 뒤에 강제로 끊지 않아요\",\"끊긴 이유와 연결 지속 시간을 remote.log에 남겨요\",\"사용량 카드에서 곧 소진될 줄을 마우스를 올리지 않아도 보여줘요\",\"입력창 제안 문구가 길면 줄바꿈해서 다 보이게 높이를 맞춰요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.66/DeskDoc_0.1.66_x64-setup.exe\",\"sha256\":\"1eb9cd75c98f5527b53516f8be41e61549be00f640af0983f4a78c732f16e92b\",\"size\":6680248,\"args\":[\"/S\"]}}}"
 }
