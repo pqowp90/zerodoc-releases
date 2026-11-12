@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "CCytaH/ZpF4V8eJy6+JMHQIaTedZ7TjAeM4rU/Ak2DUd0FRoewrfSceigipV8MKnCuRqVgjZpvTDMIszISCEBA==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":18,\"version\":\"0.1.64\",\"pub_date\":\"2026-11-11T09:53:26Z\",\"notes\":[\"한도 대기 카드를 그 탭 위에서만 보이게 수정\",\"빈 대화 화면에 어느 폴더의 대화인지 표시\",\"사이드바: 대화 고정·순서 바꾸기, 폴더 묶기, 목록 깜빡임 수정\",\"사용량 툴팁을 사용량 카드로 변경\",\"되돌리기·요약 이어가기·붙여넣기 큐 표시 버그 수정\",\"입력창에 !를 치면 셸 명령 줄\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.64/DeskDoc_0.1.64_x64-setup.exe\",\"sha256\":\"90c2284529badff9246171440298c9b298b006641b436a4243822d8b7415cc8f\",\"size\":8116858,\"args\":[\"/S\"]}}}"
+  "sig": "IM1MO4uVcjX8xBuxMmPm+3wWRG524fX8O6UMFJhPJrXAZR5vTM7lRpbs/z0nWOOc4AG7I8x28NLJdqhB3nrfDQ==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":19,\"version\":\"0.1.65\",\"pub_date\":\"2026-11-12T01:04:59Z\",\"notes\":[\"앱이 오류로 멈추면 다음에 켤 때 알려 주고, 오류 보고서를 확인해 보낼 수 있는 창이 생겼어\",\"웹뷰 화면 프로세스가 죽으면 화면을 다시 불러오거나 창을 다시 만들어\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.65/DeskDoc_0.1.65_x64-setup.exe\",\"sha256\":\"832c25bd7aac3dc702355c130820338a9c4cf84fa8a11b153028f5767952cff9\",\"size\":8221793,\"args\":[\"/S\"]}}}"
 }
