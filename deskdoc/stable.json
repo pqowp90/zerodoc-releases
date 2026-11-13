@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "CV4CHsxSnI7P7hAUyShliDeYWxEy+HZMXXCG+iej68puh1i/u7WnAsRDiCr3KUNz6bDNskHmSZzj4hfExzJaBA==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":22,\"version\":\"0.1.73\",\"pub_date\":\"2026-11-13T04:56:44Z\",\"notes\":[\"응답없음 뒤 앱이 다시 안 켜지던 문제를 고치고 멈춤 진단 기록을 늘렸어요.\\n폰에서 대화가 고치거나 만든 파일을 바로 열어 볼 수 있어요.\\n입력창의 \\\"이 대화가 바꾼 파일\\\" 목록에서 파일을 눌러 볼 수 있어요 (웹·데스크톱 공통).\\nAntigravity: 현재 로그인에 없는 모델을 고르면 그 모델이 있는 계정으로 탭을 열어요.\\nAntigravity: 모델 선택창에서 다른 계정에만 있는 모델을 고르면 탭을 그 계정으로 옮겨요.\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.73/DeskDoc_0.1.73_x64-setup.exe\",\"sha256\":\"c016d2653a2ee71063a58118089553687fab1c16a39850484178e394361e42f4\",\"size\":6711791,\"args\":[\"/S\"]}}}"
+  "sig": "1HhgKOJ0lUgoQdGijAnbIjmGBSqBil0K3JcyUmlhKyPVBUtm4fIVQSvbCbA3g+Q5M5qQme4VlbUuR08x9eXyAg==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":23,\"version\":\"0.1.74\",\"pub_date\":\"2026-11-13T05:55:51Z\",\"notes\":[\"폰에서 '이 대화가 바꾼 파일' 목록이 화면 왼쪽 밖으로 잘리던 것을 고쳤어요\",\"폰에서 파일 뷰어를 스크롤하다 당겨서 새로고침되어 꺼지지 않게 했어요\",\"한도가 풀린 뒤 멈춘 탭에 '이어서 해줘'를 보내는 일을 끌 수 있어요\",\"사이드바 첫 목록을 더 빨리 읽어요\",\"설정창 설명 문구를 짧게 줄였어요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.74/DeskDoc_0.1.74_x64-setup.exe\",\"sha256\":\"42267fd93274c974a22744aae86b4f08a846421880ef18e44702d3343353e33d\",\"size\":6712487,\"args\":[\"/S\"]}}}"
 }
