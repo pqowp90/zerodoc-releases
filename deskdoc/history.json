@@ -522,5 +522,27 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 24,
+    "version": "0.1.75",
+    "pub_date": "2026-11-13T10:10:08Z",
+    "notes": [
+      "한도에 닿았을 때 뜨던 대기 카드와 알림을 없앴어요",
+      "한도가 풀린 뒤 DeskDoc이 \"이어서 해줘\"를 보내던 동작을 없앴어요 (이어갈지는 Claude Code 자체 설정에 맡겨요)",
+      "계정 자동 전환과 다른 에이전트로 넘기기는 그대로예요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.75/DeskDoc_0.1.75_x64-setup.exe",
+        "sha256": "dd56bf5feed2cdf63fb93f13e3a1150b8c79b36d972d6ad1f9e9fcb3ffdc0c3c",
+        "size": 6706544,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

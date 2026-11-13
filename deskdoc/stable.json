@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "1HhgKOJ0lUgoQdGijAnbIjmGBSqBil0K3JcyUmlhKyPVBUtm4fIVQSvbCbA3g+Q5M5qQme4VlbUuR08x9eXyAg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":23,\"version\":\"0.1.74\",\"pub_date\":\"2026-11-13T05:55:51Z\",\"notes\":[\"폰에서 '이 대화가 바꾼 파일' 목록이 화면 왼쪽 밖으로 잘리던 것을 고쳤어요\",\"폰에서 파일 뷰어를 스크롤하다 당겨서 새로고침되어 꺼지지 않게 했어요\",\"한도가 풀린 뒤 멈춘 탭에 '이어서 해줘'를 보내는 일을 끌 수 있어요\",\"사이드바 첫 목록을 더 빨리 읽어요\",\"설정창 설명 문구를 짧게 줄였어요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.74/DeskDoc_0.1.74_x64-setup.exe\",\"sha256\":\"42267fd93274c974a22744aae86b4f08a846421880ef18e44702d3343353e33d\",\"size\":6712487,\"args\":[\"/S\"]}}}"
+  "sig": "CMJ1ZpCpZig2XBCmNSdGHIh/B2DFKFL7Z8ydlfKanMKoIm6VQYLoXDWvBd6EwiI2r19AC7ggnu9a8EBGIcs6CA==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":24,\"version\":\"0.1.75\",\"pub_date\":\"2026-11-13T10:10:08Z\",\"notes\":[\"한도에 닿았을 때 뜨던 대기 카드와 알림을 없앴어요\",\"한도가 풀린 뒤 DeskDoc이 \\\"이어서 해줘\\\"를 보내던 동작을 없앴어요 (이어갈지는 Claude Code 자체 설정에 맡겨요)\",\"계정 자동 전환과 다른 에이전트로 넘기기는 그대로예요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.75/DeskDoc_0.1.75_x64-setup.exe\",\"sha256\":\"dd56bf5feed2cdf63fb93f13e3a1150b8c79b36d972d6ad1f9e9fcb3ffdc0c3c\",\"size\":6706544,\"args\":[\"/S\"]}}}"
 }
