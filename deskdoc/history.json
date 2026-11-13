@@ -478,5 +478,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 22,
+    "version": "0.1.73",
+    "pub_date": "2026-11-13T04:56:44Z",
+    "notes": [
+      "응답없음 뒤 앱이 다시 안 켜지던 문제를 고치고 멈춤 진단 기록을 늘렸어요.\n폰에서 대화가 고치거나 만든 파일을 바로 열어 볼 수 있어요.\n입력창의 \"이 대화가 바꾼 파일\" 목록에서 파일을 눌러 볼 수 있어요 (웹·데스크톱 공통).\nAntigravity: 현재 로그인에 없는 모델을 고르면 그 모델이 있는 계정으로 탭을 열어요.\nAntigravity: 모델 선택창에서 다른 계정에만 있는 모델을 고르면 탭을 그 계정으로 옮겨요."
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.73/DeskDoc_0.1.73_x64-setup.exe",
+        "sha256": "c016d2653a2ee71063a58118089553687fab1c16a39850484178e394361e42f4",
+        "size": 6711791,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
