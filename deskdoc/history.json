@@ -544,5 +544,25 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 25,
+    "version": "0.1.80",
+    "pub_date": "2026-11-16T09:06:07Z",
+    "notes": [
+      "사이드 프로젝트: 프로젝트 안쪽이나 옆 폴더에서 연 탭을 사이드바에서 그 프로젝트 아래에 묶어 보여 주고, 끝난 사이드 프로젝트를 표시하고 한 번에 닫을 수 있어요.\n에이전트가 open_side_project 도구로 저장소 안 .sides 폴더에 git worktree를 만들고 그 안에서 새 탭을 열 수 있어요.\n설정 › 에이전트의 '묻지 않기' 스위치가 사이드 프로젝트를 열 때도 적용돼요.\n일하는 탭에서 모델·노력 수준을 바꾸면 답변이 끝난 뒤 적용돼요.\n그 밖의 0.1.76~0.1.80 수정 사항이 들어 있어요."
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.80/DeskDoc_0.1.80_x64-setup.exe",
+        "sha256": "459b8ae3120584c9a98ddb390b9b7adc83fc18512d5f7c1327a354ea3ac580cc",
+        "size": 6777793,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
