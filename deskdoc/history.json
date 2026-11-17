@@ -564,5 +564,31 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 26,
+    "version": "0.1.84",
+    "pub_date": "2026-11-17T03:58:35Z",
+    "notes": [
+      "같은 제로독 계정의 PC를 QR 없이 찾아 연결해요. 처음 한 번 PC나 연결된 폰에서 번호를 보고 허용하거나 PIN을 넣어요",
+      "대화에 나온 소리·영상 파일을 채팅에서 바로 재생해요",
+      "질문 카드를 CLI처럼 숫자 키로 고르고, 고른 답이 대화에 남아요",
+      "reply로 보낸 메시지를 들어가기 전에 거둬들일 수 있어요(cancel_reply)",
+      "Antigravity 탭: 작업 중 받은 메시지 지연, 탭끼리 대화가 섞이던 것, reply 실패, 몇 분마다 깜빡이던 콘솔 창을 고쳤어요",
+      "긴 대화 스크롤과 Antigravity 탭 전환이 빨라졌어요",
+      "설정의 API 크레딧 사용량 표시를 바로잡았어요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.84/DeskDoc_0.1.84_x64-setup.exe",
+        "sha256": "d2dbcfc11b82c4370ebf58d24a73b4ffd3a7046cf032c4f765ef43e5a7926a1a",
+        "size": 6918563,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
