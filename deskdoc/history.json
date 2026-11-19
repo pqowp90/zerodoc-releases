@@ -663,5 +663,28 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 30,
+    "version": "0.1.90",
+    "pub_date": "2026-11-19T06:38:38Z",
+    "notes": [
+      "3D 모델 뷰어에 텍스처 필터 드롭다운이 생겼어요 (파일대로·선명하게·부드럽게)",
+      "3D 모델을 파일에서 다시 불러오는 버튼이 생겼어요. 돌려 둔 각도는 그대로예요",
+      "3D 뷰어의 처음 각도로 버튼이 집 아이콘으로 바뀌었어요",
+      "아이폰에서 짧은 대화로 탭을 바꾸면 회색 화면이 나오던 문제를 고쳤어요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.90/DeskDoc_0.1.90_x64-setup.exe",
+        "sha256": "66ca7d4deb5b6058cce5c6e422ae2f5d617067e3ebda30af53f7a11d54fb9350",
+        "size": 6978859,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
