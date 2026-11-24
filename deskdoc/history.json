@@ -712,5 +712,27 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 32,
+    "version": "0.1.97",
+    "pub_date": "2026-11-24T11:08:39Z",
+    "notes": [
+      "작업 중인 탭이 있으면 창을 닫기 전에 한 번 물어봐요",
+      "에이전트가 새 탭을 열 때 어느 계정으로 열지 고를 수 있어요 (계정 이름이나 이메일로)",
+      "고른 계정이 로그인돼 있지 않거나 그 계정에 없는 모델이면, 탭을 열기 전에 쓸 수 있는 계정·모델을 알려 줘요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.97/DeskDoc_0.1.97_x64-setup.exe",
+        "sha256": "8d00dd257a7ec45ff01367bdcd57345b422f372fe90bf73eb7f5c3f7cdff1a89",
+        "size": 7106685,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]

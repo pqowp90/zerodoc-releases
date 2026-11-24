@@ -1,5 +1,5 @@
 {
   "key_id": "03420422426d51c2",
-  "sig": "36/XjDw8QS7NYtvTVQ6QuR1Y9KuoijlyIGbnybjXHDJs8tSl4WTlfWkVUYGoMrGxiRF0d0dgcvr3F1JnPu6sDg==",
-  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":31,\"version\":\"0.1.96\",\"pub_date\":\"2026-11-23T00:45:03Z\",\"notes\":[\"아이폰 탭 전환 회색 화면 수정\",\"디스크 멈춤에도 창·폰 연결 유지\",\"아이폰 10~99번 탭 알림 수정\",\"질문 카드 수정\",\"커맨드→대화 입력 옮기기\",\"긴 한 줄 메시지 전송 수정\",\"인용 Esc 수정\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.96/DeskDoc_0.1.96_x64-setup.exe\",\"sha256\":\"02c0f4889f14b4bd4b55014f8db18536df0d0f7b3fd4364fb816fc8389b4eb6c\",\"size\":7104099,\"args\":[\"/S\"]}}}"
+  "sig": "R//m50Zla/YegtcqppDHfLP90oomwNWsAWoNqnzL6irlILtaxwNy5RCrjMkHzEiMoCG4eBmkF+MVC8FiHWUnAA==",
+  "payload": "{\"app\":\"deskdoc\",\"channel\":\"stable\",\"serial\":32,\"version\":\"0.1.97\",\"pub_date\":\"2026-11-24T11:08:39Z\",\"notes\":[\"작업 중인 탭이 있으면 창을 닫기 전에 한 번 물어봐요\",\"에이전트가 새 탭을 열 때 어느 계정으로 열지 고를 수 있어요 (계정 이름이나 이메일로)\",\"고른 계정이 로그인돼 있지 않거나 그 계정에 없는 모델이면, 탭을 열기 전에 쓸 수 있는 계정·모델을 알려 줘요\"],\"platforms\":{\"windows-x86_64\":{\"url\":\"https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.97/DeskDoc_0.1.97_x64-setup.exe\",\"sha256\":\"8d00dd257a7ec45ff01367bdcd57345b422f372fe90bf73eb7f5c3f7cdff1a89\",\"size\":7106685,\"args\":[\"/S\"]}}}"
 }
