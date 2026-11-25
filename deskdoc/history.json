@@ -761,5 +761,29 @@
         ]
       }
     }
+  },
+  {
+    "app": "deskdoc",
+    "channel": "stable",
+    "serial": 34,
+    "version": "0.1.102",
+    "pub_date": "2026-11-25T07:25:58Z",
+    "notes": [
+      "창이 웹뷰 없이 DeskDoc 자체 엔진(네이티브 창)으로 열려요. 문제가 있으면 설정 › 일반 › 데스크탑 창에서 웹뷰로 바꿀 수 있어요",
+      "커맨드 화면에서 창 높이에 따라 맨 아랫줄이 반쯤 잘리던 문제를 고쳤어요",
+      "사용량 한도에서 다른 계정으로 이어서 하지 못하면, 그 이유를 대화에 한 줄로 남겨요",
+      "다른 계정으로 옮기거나 다른 에이전트로 넘길 때도 대화에 한 줄로 남아요",
+      "격리 환경의 에이전트도 호스트 화면 캡처·UI 자동화·입력 MCP 툴을 쓸 수 있어요"
+    ],
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/pqowp90/zerodoc-releases/releases/download/deskdoc-v0.1.102/DeskDoc_0.1.102_x64-setup.exe",
+        "sha256": "83663a5bbd7b71e2333ecd759d9b80ce17df642f540e9204764f33e702b6877c",
+        "size": 9906518,
+        "args": [
+          "/S"
+        ]
+      }
+    }
   }
 ]
